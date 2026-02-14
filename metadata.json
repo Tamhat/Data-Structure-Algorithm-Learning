@@ -1,0 +1,7 @@
+{
+  "name": "DataViz: The Data Structures Explorer",
+  "description": "An interactive playground for visualizing and learning fundamental computer science data structures with Gemini AI integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
